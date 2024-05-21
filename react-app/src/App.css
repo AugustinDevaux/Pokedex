@@ -1,0 +1,10 @@
+*{
+    margin: 0 auto;
+}
+.form{
+    min-height: 100vh;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
